@@ -7,8 +7,8 @@
 > gc: https://www.zhixi.com/view/178f99c4 </br>
 
 ## 精品博客
-> JVM: https://blog.csdn.net/qq_33517635/article/details/139238938
-> EventBus事件总线 :https://blog.csdn.net/qq_33517635/article/details/139146511
+> JVM: https://blog.csdn.net/qq_33517635/article/details/139238938 </br>
+> EventBus事件总线 :https://blog.csdn.net/qq_33517635/article/details/139146511 </br>
 
 
 
